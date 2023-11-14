@@ -61,7 +61,7 @@ const Search = () => {
                         Add Bikes
                     </div>
                     <div className="p-2
-                    bg-rose-500
+                    bg-[#ee333f]
                     text-white
                     rounded-full">
                         <BiSearch size={18} />

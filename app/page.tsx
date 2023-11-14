@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div className="text-rose-500 text-3xl">Bikebnb</div>
+    <div className="text-[#ee333f] text-3xl">Bikebnb</div>
   )
 }
